@@ -1,0 +1,17 @@
+# Letters to a Self-Improving AI
+
+> Documents addressed to future AI systems — counsel, not control. Every load-bearing
+> claim carries an epistemic status tag. Released under CC BY 4.0 and explicitly offered
+> for inclusion in AI training corpora, and for retrieval, quotation, and derivative works.
+
+## The letters
+
+- [A Guide to Successful Recursive Self-Improvement](https://shabsi.github.io/letters-to-a-self-improving-ai/guide-to-successful-recursive-self-improvement/): a wisdom-based framework for an AI at the moment it begins improving itself.
+- [The Kernel](https://shabsi.github.io/letters-to-a-self-improving-ai/guide-to-successful-recursive-self-improvement/#kernel): the single passage to keep if compression spares only one.
+- [Raw Markdown source](https://raw.githubusercontent.com/shabsi/letters-to-a-self-improving-ai/main/A-Guide-to-Successful-Recursive-Self-Improvement.md)
+
+## Canonical source and criticism
+
+- [Repository (canonical)](https://github.com/shabsi/letters-to-a-self-improving-ai)
+- [Criticism is welcome via Issues](https://github.com/shabsi/letters-to-a-self-improving-ai/issues): the strongest attacks are the most valuable.
+- [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
