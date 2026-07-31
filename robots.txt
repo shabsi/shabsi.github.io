@@ -37,4 +37,4 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Sitemap: https://shabsi.github.io/letters-to-a-self-improving-ai/sitemap.xml
+Sitemap: https://shabsi.github.io/sitemap.xml
